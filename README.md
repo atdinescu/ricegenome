@@ -8,8 +8,8 @@ Once data is saved into smaller .vcf files, can convert to .npz and encode SNP m
 
 ### Software requirements
 * Python 3.7
-* PLINK 1.9
 * numpy, pandas, sklearn, scikit
+* PLINK 1.9
 * Jupyter Notebook or Google Colab
 
 ### Reference
