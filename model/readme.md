@@ -27,3 +27,4 @@ heterozygous, and homozygous dominant variants {0/0, 0/1, 1/1} respectively.
 * Can change values of C, gamma and kernel choice
 * Runs SVM and prints out best parameters, mean squared error (MSE) and R^2 score for each genotype-phenotype pair
 ### Scatter plot of predicted vs true value on SVM model
+* Generates scatter plot to compare model prediction vs true on testing set only
