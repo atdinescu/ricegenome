@@ -1,6 +1,13 @@
 ## Using supervised learning to predict rice phenotype from genotype
 A class project for CBMF 4761 Computational Genomics at Columbia University by Teodora Dinescu and Zexi Wang
 
+Obtain by:
+```
+  git clone https://github.com/atdinescu/ricegenome 
+    cd ricegenome 
+```
+
+
 ### Preprocessing data
 Obtain data from [Rice SNP-Seek database](https://snp-seek.irri.org/_download.zul;jsessionid=4D89CF745706C206C0AC8A55F935728A). Need to use PLINK software to preprocess data into smaller number of SNPs and save as .vcfs.
 
@@ -9,7 +16,7 @@ Once data is saved into smaller .vcf files, can convert to .npz and encode SNP m
 
 ### Software requirements
 * Python 3.7
-* numpy, pandas, sklearn, scikit
+* numpy, pandas, sklearn, scikit-allel
 * PLINK 1.9
 * Jupyter Notebook or Google Colab
 
