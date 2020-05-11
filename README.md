@@ -1,4 +1,4 @@
-# Using supervised learning to predict rice phenotype from genotype
+## Using supervised learning to predict rice phenotype from genotype
 A class project for CBMF 4761 Computational Genomics at Columbia University by Teodora Dinescu and Zexi Wang
 
 ### Preprocessing data
