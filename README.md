@@ -1,6 +1,6 @@
 ## Using supervised learning to predict rice phenotype from genotype
 
-Obtain by:
+Download github repository by:
 ```
   git clone https://github.com/atdinescu/ricegenome 
   cd ricegenome 
