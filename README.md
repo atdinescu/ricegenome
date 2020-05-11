@@ -4,7 +4,7 @@ A class project for CBMF 4761 Computational Genomics at Columbia University by T
 Obtain by:
 ```
   git clone https://github.com/atdinescu/ricegenome 
-    cd ricegenome 
+  cd ricegenome 
 ```
 
 
