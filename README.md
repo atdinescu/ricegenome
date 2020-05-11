@@ -1,10 +1,10 @@
 #
 
 ### Preprocessing data
-Obtain data from [Rice SNP-Seek database](https://snp-seek.irri.org/_download.zul;jsessionid=4D89CF745706C206C0AC8A55F935728A). Need to use PLINK software to preprocess data into smaller number of SNPs.
+Obtain data from [Rice SNP-Seek database](https://snp-seek.irri.org/_download.zul;jsessionid=4D89CF745706C206C0AC8A55F935728A). Need to use PLINK software to preprocess data into smaller number of SNPs and save as .vcfs.
 
 ### Modeling data
-Once data is saved into smaller .vcf files, can convert to .npz and encode SNP markers as {-1, 0, 1} and save as numpy array (.npy) for reloading into modeling.
+Once data is saved into smaller .vcf files, can convert to .npz and encode SNP markers as {-1, 0, 1} and save as numpy array (.npy) for reloading into modeling. Example files are in /genomedata folder.
 
 ### Software requirements
 * Python 3.7
