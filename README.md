@@ -13,6 +13,9 @@ Obtain data from [Rice SNP-Seek database](https://snp-seek.irri.org/_download.zu
 ### Modeling data
 Once data is saved into smaller .vcf files, can convert to .npz and encode SNP markers as {-1, 0, 1} and save as numpy array (.npy) for reloading into modeling. Example files are in /genomedata folder.
 
+### PCA
+PCA plot to compare aus vs indica data in this example
+
 ### Software requirements
 * Python 3.7
 * numpy, pandas, sklearn, scikit-allel
